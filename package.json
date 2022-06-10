@@ -58,7 +58,7 @@
     "source-map-support": "^0.5.9",
     "string-minify": "^1.0.1",
     "teen_process": "^1.9.0",
-    "ws": "^7.4.2",
+    "ws": "^8.8.0",
     "ws-promise": "^2.0.4",
     "yargs": "^16.2.0"
   },
