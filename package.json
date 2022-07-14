@@ -51,7 +51,7 @@
     "minify": "^7.0.1",
     "promise-ws": "^1.0.0-1",
     "puppeteer": "1.4.0",
-    "puppeteer-core": "^1.4.0",
+    "puppeteer-core": "^15.4.0",
     "rxjs": "^6.6.3",
     "selenium": "^2.20.0",
     "selenium-webdriver": "^4.0.0-alpha.8",
